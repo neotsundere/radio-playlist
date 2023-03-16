@@ -16,6 +16,8 @@ https://stream.gensokyoradio.net/3
 https://japannex.radioca.st/;
 #EXTINF:-1 , tvg-logo="https://akiba.com.br/painel/v1/imagens/avatar/1609461501.jpg " , Radio Akiba (128kbps)
 http://stm24.srvstm.com:9526/;
+#EXTINF:-1 , tvg-logo="https://www.radio.net/images/broadcasts/68/3e/35132/c300.png" , Radio Anime (320kbps)
+https://radioanime.radioca.st/stream
 #EXTINF:-1 , tvg-logo="https://www.radio.net/images/broadcasts/d2/de/115781/3/c300.png" , Anime Para Ti (unknown)
 https://stream-61.zeno.fm/qpn8mkt8c4duv?zs=vw7chT3FQeWys7_3lHYHUw
 #EXTINF:-1 , tvg-logo="https://www.radio.net/images/broadcasts/cc/00/31980/2/c300.png" , Japanim Radio - Osaka (unknown)
@@ -24,5 +26,3 @@ https://ais-edge102-live365-dal02.cdnstream.com/a51684
 http://curiosity.shoutca.st:8019/autodj
 #EXTINF:-1 , tvg-logo="https://top-radio.ru/assets/image/radio/180/recordhardvass.png" , Radio Record Hard Bass (unknown)
 https://radiorecord.hostingradio.ru/hbass96.aacp
-#EXTINF:-1 , tvg-logo="https://1.bp.blogspot.com/-Kj59nyyoWXQ/WEVtPG-gnII/AAAAAAAAAM0/wrthImNDNWQzYwq-ngJZyCxLunoNTQsuwCLcB/s250/Radio-anime-app-musica.png" , Radio Anime (320kbps)
-https://radioanime.radioca.st/stream
