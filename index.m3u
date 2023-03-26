@@ -28,3 +28,5 @@ http://curiosity.shoutca.st:8019/autodj
 http://vrx.piro.moe:8000/stream-256
 #EXTINF:-1 , tvg-logo="https://top-radio.ru/assets/image/radio/180/recordhardvass.png" , Radio Record Hard Bass (unknown)
 https://radiorecord.hostingradio.ru/hbass96.aacp
+#EXTINF:-1 , tvg-logo="https://pbs.twimg.com/profile_images/542569631718719488/7xKCvb4i_400x400.jpeg" , Sleep Radio (128kbps)
+http://149.56.234.138:8169/;
