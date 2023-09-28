@@ -1,7 +1,5 @@
 #EXTM3U
-#PLAYLIST:Online radio: ANIME Music
-#EXTINF:-1 , tvg-logo="https://gitgud.io/uploads/-/system/project/avatar/4517/cirno.png" , chiru.no (Hi-Res)
-https://chiru.no/highres.flac
+#PLAYLIST:Online radio
 #EXTINF:-1 , tvg-logo="https://www.animeradio.de/img/animeradio-stream-mp3-192.jpg" , AnimeRadio.de (192kbps)
 http://stream.animeradio.de/animeradio.mp3
 #EXTINF:-1 , tvg-logo="http://anison.fm/images/logo-og.png" , Anison.FM (320kbps-mp3)
@@ -28,5 +26,3 @@ http://curiosity.shoutca.st:8019/autodj
 http://vrx.piro.moe:8000/stream-256
 #EXTINF:-1 , tvg-logo="https://top-radio.ru/assets/image/radio/180/recordhardvass.png" , Radio Record Hard Bass (unknown)
 https://radiorecord.hostingradio.ru/hbass96.aacp
-#EXTINF:-1 , tvg-logo="https://pbs.twimg.com/profile_images/542569631718719488/7xKCvb4i_400x400.jpeg" , Sleep Radio (128kbps)
-http://149.56.234.138:8169/;
